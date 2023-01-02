@@ -1,0 +1,7 @@
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\DotnetApi.exe
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\DotnetApi.dll
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\DotnetApi.deps.json
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\DotnetApi.runtimeconfig.json
+C:\Users\parmar-rahul-ramesh\Desktop\DotnetApi\DotnetApi\obj\Release\netcoreapp3.1\PubTmp\Out\DotnetApi.pdb
